@@ -1,2 +1,12 @@
 # Grazioso-Salvare
 App for finding search and rescue candidates
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+To write maintainable, readable, and adaptable programs, focus on clear code structure by using meaningful variable names and consistent formatting, while adhering to established design principles like DRY (Don't Repeat Yourself) and SOLID. Writing code this way ensures easier collaboration, faster debugging, smoother scalability, and long-term cost efficiency in development. The CRUD Python module could be used to manage data for various applications, such as inventory systems, user management, or any project that requires efficient data storage, retrieval, updates, and deletion.
+
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+You can begin by thoroughly understanding the problem, breaking it down into smaller, manageable components, and identifying the requirements and constraints. I approached this project by utilizing several resources including books, Google, and YouTube. The strategies that I will employ would first begin with the needs of the customer and their expectations, from there I can plan strategically to give them the best product. 
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists design, develop, and analyze algorithms, software, and systems to solve complex problems and improve technology across various fields. Their work drives innovation, enhances efficiency, and addresses critical challenges, making a significant impact on industries such as healthcare, education, finance, and entertainment. It would help a company because during the course of this project I was able to utilize several resources across several platforms that has enhanced my ability to research and collaborate across several platforms. 
+
